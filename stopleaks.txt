@@ -1,3 +1,5 @@
 ||browserleaks.com^
 ||browserleaks.org^
 ||browserleaks.net^
+
+||vercel.com^
