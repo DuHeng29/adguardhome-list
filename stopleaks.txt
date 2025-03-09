@@ -1,5 +1,6 @@
 ||browserleaks.com^
 ||browserleaks.org^
 ||browserleaks.net^
+||surfsharkdns.com^
 
 ||vercel.com^
