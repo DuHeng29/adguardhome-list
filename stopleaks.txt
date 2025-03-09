@@ -1,1 +1,2 @@
 ||browserleaks.com^
+||browserleaks.org^
