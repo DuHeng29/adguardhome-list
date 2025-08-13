@@ -83,3 +83,9 @@ DOMAIN-KEYWORD,github
 
 # Pornhub
 DOMAIN-SUFFIX,pornhub.com
+
+# chat.yinxiao.win
+DOMAIN-SUFFIX,chat.yinxiao.win
+
+# qifeng.chat
+DOMAIN-SUFFIX,qifeng.chat
