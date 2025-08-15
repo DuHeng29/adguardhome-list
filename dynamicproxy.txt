@@ -91,4 +91,4 @@ DOMAIN-SUFFIX,chat.yinxiao.win
 DOMAIN-SUFFIX,qifeng.chat
 
 #携程修复
-DOMAIN-SUFFIX,ctrip.cn
+DOMAIN-SUFFIX,ctrip.com
