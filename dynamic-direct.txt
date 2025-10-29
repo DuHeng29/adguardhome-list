@@ -1,0 +1,2 @@
+# FlyingBird节点
+DOMAIN-SUFFIX,ftisthebest.com
