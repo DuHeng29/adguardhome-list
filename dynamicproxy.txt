@@ -33,9 +33,6 @@ DOMAIN-SUFFIX,openstreetmap.org
 # 马克思主义文库
 DOMAIN-SUFFIX,marxists.org
 
-# Pornhub
-DOMAIN-SUFFIX,pornhub.com
-
 # chat.yinxiao.win
 DOMAIN-SUFFIX,chat.yinxiao.win
 
