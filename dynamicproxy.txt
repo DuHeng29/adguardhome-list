@@ -81,9 +81,6 @@ DOMAIN-SUFFIX,repo.new
 DOMAIN-SUFFIX,thegithubshop.com
 DOMAIN-KEYWORD,github
 
-# Pornhub
-DOMAIN-SUFFIX,pornhub.com
-
 # chat.yinxiao.win
 DOMAIN-SUFFIX,chat.yinxiao.win
 
