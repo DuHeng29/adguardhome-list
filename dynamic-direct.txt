@@ -1,2 +1,22 @@
 # FlyingBird节点
 # DOMAIN-SUFFIX,ftisthebest.com
+
+# 学术网站直连
+DOMAIN-SUFFIX,manual.gromacs.org
+DOMAIN-KEYWORD,sci-hub
+DOMAIN-SUFFIX,ccdc.cam.ac.uk
+DOMAIN-KEYWORD,wiley
+DOMAIN-KEYWORD,pubs
+DOMAIN-KEYWORD,translate
+DOMAIN-KEYWORD,docs
+DOMAIN-KEYWORD,onenote
+DOMAIN-KEYWORD,office
+DOMAIN-KEYWORD,microsoft
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-SUFFIX,iresearchbook.cn
+DOMAIN-SUFFIX,elsevier.com
+DOMAIN-SUFFIX,nature.com
+DOMAIN-SUFFIX,webofknowledge.com
+DOMAIN-SUFFIX,pubs.acs.org
+DOMAIN-SUFFIX,scitation.org
