@@ -32,3 +32,6 @@ DOMAIN-SUFFIX,dl30.osmand.net
 
 # CivitAI Download
 DOMAIN-KEYWORD,civitai-delivery-worker-prod.
+
+# HuggingFace Download
+DOMAIN-SUFFIX,hf.co
