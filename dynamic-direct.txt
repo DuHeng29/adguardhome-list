@@ -13,3 +13,6 @@ DOMAIN-SUFFIX,nature.com
 DOMAIN-SUFFIX,webofknowledge.com
 DOMAIN-SUFFIX,pubs.acs.org
 DOMAIN-SUFFIX,scitation.org
+
+# FRPS西雅图Vultr
+IP-CIDR,144.202.94.131/32
