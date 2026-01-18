@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,hf.co
 
 # Fender Studio One/Pro
 DOMAIN-REGEX,^studioone_content
+DOMAIN-REGEX,^studioone-content
 
 # Patreon
 DOMAIN-SUFFIX,patreonusercontent.com
