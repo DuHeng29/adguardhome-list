@@ -37,6 +37,7 @@ DOMAIN-KEYWORD,civitai-delivery-worker-prod.
 DOMAIN-SUFFIX,hf.co
 
 # Fender Studio One/Pro
-DOMAIN-KEYWORD,studioone_content
+DOMAIN-REGEX,^studioone_content
 
 # Patreon
+DOMAIN-SUFFIX,patreonusercontent.com
