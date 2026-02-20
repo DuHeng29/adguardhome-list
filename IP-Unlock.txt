@@ -1,3 +1,6 @@
 # Google Scholar
 # 谷歌学术
 DOMAIN-KEYWORD,scholar.google.com
+
+# CivitAI
+DOMAIN-SUFFIX,civitai.com
