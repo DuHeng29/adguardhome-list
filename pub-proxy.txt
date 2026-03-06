@@ -19,7 +19,13 @@ DOMAIN-SUFFIX,archive.org
 
 # Google search
 # 谷歌搜索
-DOMAIN-KEYWORD,www.google.
+DOMAIN-KEYWORD,www.google.com
+
+# Google account login
+# 谷歌账号登录
+DOMAIN-SUFFIX,accounts.google.com
+DOMAIN-SUFFIX,oauth2.googleapis.com
+DOMAIN-SUFFIX,securetoken.googleapis.com
 
 # Google earth
 # 谷歌地球
