@@ -4,3 +4,7 @@ DOMAIN-KEYWORD,scholar.google.com
 
 # CivitAI
 DOMAIN-SUFFIX,civitai.com
+
+# Apple Update Catalog
+# 苹果更新目录服务器
+DOMAIN-SUFFIX,gdmf.apple.com
