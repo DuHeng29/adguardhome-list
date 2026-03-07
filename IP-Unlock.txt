@@ -9,3 +9,6 @@ DOMAIN-SUFFIX,civitai.com
 # 苹果更新
 DOMAIN-SUFFIX,gdmf.apple.com
 DOMAIN-SUFFIX,gs.apple.com
+
+# DeviantArt
+DOMAIN-SUFFIX,www.deviantart.com
