@@ -26,6 +26,7 @@ DOMAIN-KEYWORD,www.google.com
 DOMAIN-SUFFIX,accounts.google.com
 DOMAIN-SUFFIX,oauth2.googleapis.com
 DOMAIN-SUFFIX,securetoken.googleapis.com
+DOMAIN-SUFFIX,gds.google.com
 
 # Google earth
 # 谷歌地球
