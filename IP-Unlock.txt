@@ -12,3 +12,6 @@ DOMAIN-SUFFIX,gs.apple.com
 
 # DeviantArt
 DOMAIN-SUFFIX,www.deviantart.com
+
+# OverClock
+DOMAIN-SUFFIX,www.overclock.net
