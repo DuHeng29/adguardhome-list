@@ -51,10 +51,6 @@ DOMAIN-SUFFIX,mw1.google.com
 # 开放街道地图
 DOMAIN-SUFFIX,openstreetmap.org
 
-# Marxists Internet Archive
-# 马克思主义文库
-DOMAIN-SUFFIX,marxists.org
-
 # Github
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,dependabot.com
@@ -87,9 +83,3 @@ DOMAIN-SUFFIX,rawgithub.com
 DOMAIN-SUFFIX,repo.new
 DOMAIN-SUFFIX,thegithubshop.com
 DOMAIN-KEYWORD,github
-
-# chat.yinxiao.win
-DOMAIN-SUFFIX,chat.yinxiao.win
-
-# qifeng.chat
-DOMAIN-SUFFIX,qifeng.chat
