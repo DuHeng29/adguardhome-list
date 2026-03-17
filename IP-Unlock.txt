@@ -1,17 +1,17 @@
 # Google Scholar
 # 谷歌学术
-DOMAIN-KEYWORD,scholar.google.com
+#DOMAIN-KEYWORD,scholar.google.com
 
 # CivitAI
-DOMAIN-SUFFIX,civitai.com
+#DOMAIN-SUFFIX,civitai.com
 
 # Apple Update
 # 苹果更新
-DOMAIN-SUFFIX,gdmf.apple.com
-DOMAIN-SUFFIX,gs.apple.com
+#DOMAIN-SUFFIX,gdmf.apple.com
+#DOMAIN-SUFFIX,gs.apple.com
 
 # DeviantArt
 DOMAIN-SUFFIX,www.deviantart.com
 
 # OverClock
-DOMAIN-SUFFIX,www.overclock.net
+#DOMAIN-SUFFIX,www.overclock.net
