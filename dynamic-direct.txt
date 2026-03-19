@@ -32,3 +32,9 @@ DOMAIN-SUFFIX,clarivate.cn
 # IP-CIDR,144.202.94.131/32
 # IP-CIDR,140.82.34.77/32
 # IP-CIDR,207.148.88.26/32
+
+# Xbox下载
+DOMAIN-SUFFIX,assets1.xboxlive.com
+DOMAIN-SUFFIX,assets2.xboxlive.com
+DOMAIN-SUFFIX,d1.xboxlive.com
+DOMAIN-SUFFIX,d2.xboxlive.com
