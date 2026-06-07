@@ -1,0 +1,10 @@
+# Pixiv
+DOMAIN-SUFFIX,pixiv.com
+DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,pximg.net
+DOMAIN-SUFFIX,fanbox.cc
+DOMAIN-SUFFIX,booth.pm
+
+# Niconico
+DOMAIN-SUFFIX,nicovideo.jp
+DOMAIN-SUFFIX,nimg.jp
