@@ -1,5 +1,0 @@
-# chat.yinxiao.win
-DOMAIN-SUFFIX,chat.yinxiao.win
-
-# qifeng.chat
-DOMAIN-SUFFIX,qifeng.chat
