@@ -7,6 +7,7 @@ DOMAIN-KEYWORD,civitai-delivery-worker-prod.
 
 # HuggingFace Download
 DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,xethub.hf.co
 
 # Fender Studio One/Pro
 DOMAIN-REGEX,^studioone_content
@@ -14,3 +15,20 @@ DOMAIN-REGEX,^studioone-content
 
 # Patreon
 DOMAIN-SUFFIX,patreonusercontent.com
+
+# Google Drive
+DOMAIN-SUFFIX,googleusercontent.com
+
+# OneDrive
+DOMAIN-SUFFIX,files.1drv.com
+
+# SourceForge
+DOMAIN-SUFFIX,downloads.sourceforge.net
+DOMAIN-SUFFIX,master.dl.sourceforge.net
+
+# Docker
+DOMAIN-SUFFIX,production.cloudflare.docker.com
+DOMAIN-SUFFIX,dockerusercontent.com
+
+# Mega
+DOMAIN-SUFFIX,userstorage.mega.co.nz
