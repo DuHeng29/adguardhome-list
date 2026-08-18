@@ -17,7 +17,7 @@ DOMAIN-REGEX,^studioone-content
 DOMAIN-SUFFIX,patreonusercontent.com
 
 # Google Drive
-DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN,drive.usercontent.google.com
 
 # OneDrive
 DOMAIN-SUFFIX,files.1drv.com
