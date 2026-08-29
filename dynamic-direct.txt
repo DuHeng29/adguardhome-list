@@ -1,0 +1,46 @@
+# FlyingBird节点
+# DOMAIN-SUFFIX,ftisthebest.com
+
+# 学术网站直连
+DOMAIN-SUFFIX,manual.gromacs.org
+DOMAIN-SUFFIX,ccdc.cam.ac.uk
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-SUFFIX,iresearchbook.cn
+DOMAIN-SUFFIX,elsevier.com
+DOMAIN-SUFFIX,nature.com
+DOMAIN-SUFFIX,pubs.acs.org
+DOMAIN-SUFFIX,geoscienceworld.org
+DOMAIN-SUFFIX,springer.com
+DOMAIN-SUFFIX,onlinelibrary.wiley.com
+DOMAIN-SUFFIX,sciencemag.org
+DOMAIN-SUFFIX,iwaponline.com
+DOMAIN-SUFFIX,onepetro.org
+DOMAIN-SUFFIX,library.seg.org
+DOMAIN-SUFFIX,emerald.com
+DOMAIN-SUFFIX,www.pqdtcn.com
+DOMAIN-SUFFIX,ieeexplore.ieee.org
+DOMAIN-SUFFIX,www.taylorfrancis.com
+DOMAIN-SUFFIX,digital-library.theiet.org
+DOMAIN-SUFFIX,www.scopus.com
+DOMAIN-SUFFIX,engineeringvillage.com
+DOMAIN-SUFFIX,clarivate.com
+DOMAIN-SUFFIX,webofscience.com
+DOMAIN-SUFFIX,clarivate.cn
+
+# FRPS西雅图Vultr
+# IP-CIDR,144.202.94.131/32
+# IP-CIDR,140.82.34.77/32
+# IP-CIDR,207.148.88.26/32
+
+# Xbox下载
+DOMAIN-SUFFIX,assets1.xboxlive.com
+DOMAIN-SUFFIX,assets2.xboxlive.com
+DOMAIN-SUFFIX,d1.xboxlive.com
+DOMAIN-SUFFIX,d2.xboxlive.com
+
+# Epic Games 游戏下载 CDN
+DOMAIN-SUFFIX,download.epicgames.com
+
+# 卡巴斯基
+DOMAIN-SUFFIX,kaspersky.com
