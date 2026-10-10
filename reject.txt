@@ -1,2 +1,4 @@
 # Ping0.cc
 DOMAIN-SUFFIX,ping0.cc
+AND,((GEOSITE,geolocation-cn),(DST-PORT,3478))
+AND,((GEOIP,cn),(DST-PORT,3478))
