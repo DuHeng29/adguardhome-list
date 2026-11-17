@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,manual.gromacs.org
 DOMAIN-SUFFIX,ccdc.cam.ac.uk
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-SUFFIX,sciencedirectassets.com
 DOMAIN-SUFFIX,iresearchbook.cn
 DOMAIN-SUFFIX,elsevier.com
 DOMAIN-SUFFIX,nature.com
